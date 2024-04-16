@@ -1,4 +1,4 @@
-# PSYCHE ROVER 9000
+# PSYCHE ROVER 9000 
 
 ### INSTITUTION
 Pennsylvania State University – Behrend (PSB)
@@ -7,10 +7,10 @@ Pennsylvania State University – Behrend (PSB)
 Tungsten Class (2023 – 2024)
 
 ### STUDENT TEAM
-Amber Lee, Software Engineering
-Jacob Meyer, Software Engineering
-Michael Stanley, Software Engineering
-Reid McMullin, Software Engineering
+Amber Lee, Software Engineering <br>
+Jacob Meyer, Software Engineering  <br>
+Michael Stanley, Software Engineering <br>
+Reid McMullin, Software Engineering <br>
 
 ### ACADEMIC GUIDANCE
 Dr. Naseem Ibrahim
