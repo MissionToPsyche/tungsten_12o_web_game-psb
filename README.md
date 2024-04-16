@@ -1,6 +1,6 @@
-“PSYCHE ROVER 9000”
+# PSYCHE ROVER 9000
 
-INSTITUTION
+## INSTITUTION
 Pennsylvania State University – Behrend (PSB)
 
 CLASS
